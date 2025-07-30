@@ -197,4 +197,4 @@ For issues or questions:
 
 ---
 
-Built with ❤️ using React, GSAP, and Tailwind CSS
+Built with ❤️ using React, GSAP, and Tailwind CSS.
