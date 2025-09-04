@@ -16,7 +16,7 @@ A luxury responsive landing page built with React, TypeScript, Tailwind CSS, and
 - **Tablet**: 768px - 1023px (Hybrid navigation)
 - **Desktop**: 1024px+ (Full feature set)
 
-### Performance Features
+### Performance Features:-
 - Optimized GSAP animations with proper cleanup
 - Lazy loading and efficient re-renders
 - Smooth 60fps animations across all devices
