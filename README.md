@@ -22,7 +22,7 @@ A luxury responsive landing page built with React, TypeScript, Tailwind CSS, and
 - Smooth 60fps animations across all devices
 - Accessibility-compliant interactions
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack:-
 
 - **Framework**: React 18 with TypeScript
 - **Styling**: Tailwind CSS
