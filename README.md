@@ -31,7 +31,7 @@ A luxury responsive landing page built with React, TypeScript, Tailwind CSS, and
 - **Build Tool**: Vite
 - **Deployment**: Ready for Vercel/Netlify
 
-## 📦 Installation
+## 📦 Installation:-
 
 ### Prerequisites
 - Node.js 16+ 
