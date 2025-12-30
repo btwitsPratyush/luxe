@@ -11,7 +11,7 @@ A luxury responsive landing page built with React, TypeScript, Tailwind CSS, and
 - **FAQ Section**: Smooth accordion animations with height transitions
 - **Scroll Triggers**: Content reveals as user scrolls through sections
 
-### Responsive Design:
+### Responsive Design:-
 - **Mobile**: 320px - 767px (Touch-optimized interactions)
 - **Tablet**: 768px - 1023px (Hybrid navigation)
 - **Desktop**: 1024px+ (Full feature set)
