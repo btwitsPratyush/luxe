@@ -2,7 +2,7 @@ qq# Premium Landing Page with GSAP Animations
 
 A luxury responsive landing page built with React, TypeScript, Tailwind CSS, and GSAP animations. Features sophisticated animations, smooth interactions, and premium design aesthetics.
 
-## 🚀 Features:-
+## 🚀 Features:
 
 ### Core Animations
 - **Loading Screen**: Luxury-style reveal animation with progress bar
